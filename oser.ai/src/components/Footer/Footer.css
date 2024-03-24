@@ -1,0 +1,78 @@
+.footer {
+    background-color: #1c1c1c;
+    color: white;
+    padding: 3rem 0;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .contact,
+  .social-media,
+  .newsletter {
+    flex: 1;
+    max-width: 300px;
+    margin-bottom: 2rem;
+  }
+  
+  .social-icons {
+    display: flex;
+  }
+  
+  .icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 1rem;
+    background-size: cover;
+  }
+  
+  .facebook {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png');
+  }
+  
+  .twitter {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/018/930/745/original/twitter-logo-twitter-icon-transparent-free-free-png.png');
+  }
+  
+  .instagram {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png');
+  }
+  
+  .newsletter-form {
+    display: flex;
+  }
+  
+  .newsletter-form input[type="email"] {
+    flex: 2;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px 0 0 5px;
+  }
+  
+  .newsletter-form button {
+    flex: 1;
+    border: none;
+    background-color: #ff9900;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+  }
+  
+  .footer-links {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  .footer-links a {
+    color: #999;
+    text-decoration: none;
+    margin: 0 1rem;
+  }
+  
+  /* Add any additional styling as needed */
+  

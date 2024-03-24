@@ -1,0 +1,30 @@
+/* AboutPage.css */
+.about-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .section-heading {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .section-description {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .subsection-heading {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .about-page p {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Add more styling rules as needed */
+  

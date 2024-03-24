@@ -1,0 +1,23 @@
+/* Vision.css */
+.vision {
+    text-align: center;
+    padding: 40px;
+    background-color: #f7f7f7;
+  }
+  
+  .vision h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .vision p {
+    margin-bottom: 20px;
+    color: #666;
+  }
+  
+  .vision img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
